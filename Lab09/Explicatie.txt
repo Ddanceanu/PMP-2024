@@ -1,0 +1,9 @@
+Efectul dintre numarul de cumparatori Y, si probabilitatea ca un client sa cumpere produsul theta au urmatoarele explicatii:
+Y - mare, probabil n mare -> nr mare de cumparatori presupune un numar mare de clienti
+Y - mic, probabil n mic -> nu este nevoie de multi clienti
+theta mic -> n mare pt a genera Y
+theta mare -> n poate fi mai mic pt a produce Y
+
+Combinatia dintre cele doua:
+Y mare si theta mic, distributia lui n va fi larga si concentrata pe valori mari
+Y mic si theta mare, distributia lui n va fi ingusta si concentrata pe valori mici
